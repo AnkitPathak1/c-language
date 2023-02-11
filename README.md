@@ -10,7 +10,7 @@ int main(){ // Similar to the start of flowchart
     cout<<'2'; // Character 2 is printer
 }
 
-//This program is for int,char
+//This program is for int,char//
 
 #include<iostream>
 using namespace std;
